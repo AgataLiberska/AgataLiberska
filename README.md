@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Agata, and I love frontend!
+
+I became interested in web development a few years ago, and every new skill makes my passion for it grow. With a keen eye for detail, I bring design to life, ensuring that the final product is responsive and accessible. In my previous positions, I developed excellent organisation and communication skills. I thrive when faced with challenges and problems to solve - both independently and as a part of a team.
+
+
+
 <!--
 **AgataLiberska/AgataLiberska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
