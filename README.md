@@ -1,4 +1,4 @@
-### Hi, I'm Agata 👋
+## Hi, I'm Agata 👋
 
 ![](./img/Header.PNG)
 
@@ -12,8 +12,9 @@ I became interested in web development a few years ago, and every new skill make
 - ⚡ Fun fact: in my free time, I talk about English and life in the UK on [Instagram](https://www.instagram.com/naturalnie_po_angielsku/)
 - 👯 I'm a big fan of [Frontend Mentor](https://frontendmentor.io). Love both working on their challenges and giving feedback to others.
 
-# Are you looking for a Junior Frontend Developer?
+### Are you looking for a Junior Frontend Developer?
 
+I love learning and working with great designs accessible to all web users.
 [Here is my resume](https://drive.google.com/file/d/17PlxnF7-6hZaS-icDPYD4F6i6W9PDLct/view?usp=sharing)
 
 ## 🛠 Tools and technologies 
