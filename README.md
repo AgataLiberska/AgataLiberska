@@ -2,8 +2,6 @@
 
 ![](./img/Header.PNG)
 
-I became interested in web development a few years ago, and every new skill makes my passion for it grow. But there was always something in the way of me committing to it fully... at least until the pandemic hit. After a few weeks of anxiously waiting for it to go away (oh, sweet summer child), I thought I'd better make use of all this 'extra' time. I am currently working hard on my ✨ frontend ✨ skills, but plan to work towards full stack. And I never want to go back! 😄
-
 ## In short
 
 - 🙂 Pronouns: she/her
